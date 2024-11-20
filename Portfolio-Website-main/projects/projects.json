@@ -1,0 +1,31 @@
+[{
+  "name": "CertiFit App",
+  "desc": "An Android app for rating fitness supplements based on brand reputation, certifications, and ingredient transparency. Built with a clean UI and Kotlin, leveraging LiveData and RecyclerView.",
+  "image": "Screenshot 2024-11-20 152500.png",
+  "category": "android",
+  "links": {
+    "view": "https://www.linkedin.com/your-post-link",
+    "code": "https://github.com/your-repo-link"
+  }
+},
+{
+  "name": "Node.js RESTful API",
+  "desc": "A backend project showcasing CRUD operations using Node.js and MongoDB Atlas. Designed for robust API development with a focus on RESTful principles.",
+  "image": "Screenshot 2024-11-20 154124.png",
+  "category": "backend",
+  "links": {
+    "view": "https://www.linkedin.com/your-post-link",
+    "code": "https://github.com/your-repo-link"
+  }
+},
+{
+  "name": "News API App",
+  "desc": "An Android app that fetches and displays the latest news using a RecyclerView in a fragment. Built using Kotlin and demonstrates seamless API integration.",
+  "image": "Screenshot 2024-11-20 152551.png",
+  "category": "android",
+  "links": {
+    "view": "https://www.linkedin.com/your-post-link",
+    "code": "https://github.com/your-repo-link"
+  }
+}
+]
